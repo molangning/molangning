@@ -1,7 +1,7 @@
 <h1 align="center">Hello, world!</h1>
 
 
-<div style="text-align:center">
+<div style="text-align: center">
     <h2>> GitHub stats</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=molangning&show_icons=true&theme=transparent&include_all_commits=true">
     <br>
