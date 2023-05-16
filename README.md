@@ -1,6 +1,6 @@
 <h1 align="center">Hello, world!</h1>
 
-<h2 align="center">> <b>whoami</b></h2>
+<h2 align="center">> <b>Whoami?</b></h2>
 
 <p align="center"> I am <b><i>Langning</i></b>, a singaporean that loves programming and hacking. :heart:</p>
 <p align="center"> Self taught hacker and programmer (basic c, c# and c++ knowledge). :desktop_computer:</p>
