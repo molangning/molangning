@@ -1,8 +1,7 @@
 # My GitHub stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=molangning&show_icons=true&count_private=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=molangning&show_icons=true&theme=transparent&include_all_commits=true)
 # Most used languages
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=molangning&theme=transparent)
-
 
 <!--
 **molangning/molangning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
