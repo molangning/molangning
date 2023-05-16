@@ -1,6 +1,8 @@
 <h1 align="center">Hello, world!</h1>
 
-
+<p align="center">>whoami</p>
+<p align="center">I am Langning, a singaporean that loves programming and hacking. :heart: 
+<p align="center">
 
 <h2 align="center">> GitHub stats</h2>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=molangning&show_icons=true&theme=transparent&include_all_commits=true"></p>
