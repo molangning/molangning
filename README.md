@@ -1,14 +1,13 @@
 <h1 align="center">Hello, world!</h1>
 
 
-<div style="text-align: center">
-    <h2>> GitHub stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=molangning&show_icons=true&theme=transparent&include_all_commits=true">
-    <br>
-    <h2>> Frequently used languages</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=molangning&theme=transparent">
 
-</div>
+<h2 align="center">> GitHub stats</h2>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=molangning&show_icons=true&theme=transparent&include_all_commits=true"></p>
+<br>
+<h2 align="center">> Frequently used languages</h2>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=molangning&theme=transparent"></p>
+
 
 <!--
 **molangning/molangning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
