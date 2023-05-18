@@ -16,6 +16,8 @@
 <h2 align="center">> Frequently used languages</h2>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=molangning&theme=transparent"></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=molangning&repo=bypass)](https://github.com/molangning/bypass)
-
+<h2 align="center">> Frequently used languages</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=molangning&repo=bypass&theme=transparent">
+</p>
 
