@@ -2,7 +2,7 @@
 
 <h2 align="center">> <b>Whoami?</b></h2>
 
-<p align="center"> I am <b><i>Langning</i></b>, a singaporean that loves programming and hacking. :heart:</p>
+<p align="center"> I am <b><i>Langning</i></b>, a 14 year old singaporean (on 2023) that loves programming and hacking. :heart:</p>
 <p align="center"> Self taught hacker and programmer (basic c, c# and c++ knowledge). :desktop_computer:</p>
 <p align="center"> Currently mass committing code to github :technologist:</p>
 
