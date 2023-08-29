@@ -3,7 +3,7 @@
 <h2 align="center">> <b>Whoami?</b></h2>
 
 <p align="center"> I am <b><i>Langning</i></b>, a 14 year old singaporean (as of 2023) that loves programming and hacking. :heart:</p>
-<p align="center"> Self taught hacker and programmer with experience with C, C#, C++, Python, Javascript and a bit of ruby. :desktop_computer:</p>
+<p align="center"> Self taught hacker and programmer with experience with C, C#, C++, Python, Javascript, Lua and a bit of ruby. :desktop_computer:</p>
 <p align="center"> Currently maintaining the <a href="https://github.com/molangning/bypass">bypass project</a> and developing new projects! 🔬</p>
 
 <br>
