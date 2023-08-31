@@ -18,7 +18,11 @@
 
 <h2 align="center">> Repositories</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=molangning&repo=bypass&theme=transparent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=molangning&repo=QOSINT&theme=transparent">
+  <a href="http://github.com/molangning/bypass" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=molangning&repo=bypass&theme=transparent">
+  </a>
+  <a href="http://github.com/molangning/QOSINT" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=molangning&repo=QOSINT&theme=transparent">
+  </a>
 </p>
 
