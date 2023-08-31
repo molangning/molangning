@@ -18,10 +18,10 @@
 
 <h2 align="center">> Repositories</h2>
 <p align="center">
-  <a href="http://github.com/molangning/bypass" target="_blank">
+  <a href="http://github.com/molangning/bypass">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=molangning&repo=bypass&theme=transparent">
   </a>
-  <a href="http://github.com/molangning/QOSINT" target="_blank">
+  <a href="http://github.com/molangning/QOSINT">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=molangning&repo=QOSINT&theme=transparent">
   </a>
 </p>
