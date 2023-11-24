@@ -4,7 +4,7 @@
 
 <p align="center"> I am <b><i>Langning</i></b>, a 14 year old singaporean (as of 2023) that loves programming and hacking. :heart:</p>
 <p align="center"> Self taught hacker and programmer with experience with C, C#, C++, Python, Javascript, Lua, PHP and a bit of ruby. :desktop_computer:</p>
-<p align="center"> Currently maintaining the <a href="https://github.com/molangning/bypass">bypass project</a> and developing new projects! 🔬</p>
+<p align="center"> Currently maintaining the <a href="https://github.com/molangning/bypass">bypass project</a>, contributing to <a href="https://github.com/danielmiessler/SecLists">SecLists</a> and developing new projects! 🔬</p>
 <p align="center"> Contact me: emailproxy1423[AT]duck[DoT]com 📫</p>
 
 <br>
@@ -27,3 +27,4 @@
   </a>
 </p>
 
+> g0tmi1k if you are reading this I am sorry for spamming seclists with so many pull requests lol
