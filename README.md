@@ -49,6 +49,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=molangning&repo=bypass&theme=transparent">
   </a>
   <a href="http://github.com/molangning/QOSINT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=molangning&repo=QOSINT&theme=transparent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=molangning&repo=PySocks-NG&theme=transparent">
   </a>
 </p>
