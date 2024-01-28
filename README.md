@@ -45,10 +45,10 @@
 
 <h2 align="center">> Repositories</h2>
 <p align="center">
-  <a href="http://github.com/molangning/bypass">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=molangning&repo=bypass&theme=transparent">
+  <a href="http://github.com/molangning/bypass-js">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=molangning&repo=bypass-js&theme=transparent">
   </a>
-  <a href="http://github.com/molangning/QOSINT">
+  <a href="http://github.com/molangning/PySocks-NG">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=molangning&repo=PySocks-NG&theme=transparent">
   </a>
 </p>
