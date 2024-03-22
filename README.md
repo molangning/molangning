@@ -2,7 +2,7 @@
 
 <h2 align="center">> <b>Whoami?</b></h2>
 
-<p align="center"> I am <b><i>Langning</i></b>, a 15 year old singaporean (as of 2024) that loves programming and hacking. :heart:</p>
+<p align="center"> I am <b><i>Langning</i></b>, a 15 year old singaporean (as of 2024) that loves learning about new technologies. :heart:</p>
 <p align="center"> Self taught hacker and programmer with experience with C, C#, C++, Python, Javascript, Lua, PHP and a bit of ruby. :desktop_computer:</p>
 <p align="center"> Currently maintaining the <a href="https://github.com/molangning/bypass">bypass project</a>, contributing to <a href="https://github.com/danielmiessler/SecLists">SecLists</a> and developing new projects! 🔬</p>
 
@@ -36,18 +36,16 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=molangning&show_icons=true&theme=transparent&include_all_commits=true">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=molangning&theme=transparent">
 </p>
-
-<br>
-
-<h2 align="center">> Frequently used languages</h2>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=molangning&theme=transparent"></p>
 
 <h2 align="center">> Repositories</h2>
 <p align="center">
   <a href="http://github.com/molangning/bypass-js">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=molangning&repo=bypass-js&theme=transparent">
   </a>
+  &nbsp;
   <a href="http://github.com/molangning/PySocks-NG">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=molangning&repo=PySocks-NG&theme=transparent">
   </a>
