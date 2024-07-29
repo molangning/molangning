@@ -7,7 +7,7 @@
 <p align="center"> Currently maintaining the <a href="https://github.com/molangning/bypass-js">bypass project</a>, contributing to <a href="https://github.com/danielmiessler/SecLists">SecLists</a> and developing new projects! 🔬</p>
 
 <h2 align="center">> Contact info</h2>
-<p align="center"> Email: emailproxy1423[AT]duck[DoT]com 📫</p>
+<p align="center"> Email: langning[AT]langing[DoT]dev 📫</p>
 <p align="center"> Discord invite: <a href="https://discord.com/invite/wC92JBb834"> wC92JBb834</a> :speech_balloon: </p>
 
 <br>
